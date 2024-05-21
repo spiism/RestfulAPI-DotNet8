@@ -13,3 +13,7 @@ GET {{RestfulAPI-DotNet8_HostAddress}}/weatherforecast
 GET {{RestfulAPI-DotNet8_HostAddress}}/weatherforecast
 
 ###
+
+GET {{RestfulAPI-DotNet8_HostAddress}}/weatherforecast
+
+###
